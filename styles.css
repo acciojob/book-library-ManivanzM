@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-*{
+.book-library{
 	background-color:#f8f8f8;
 }
 .book-library>h1{
@@ -15,4 +15,9 @@
 }
 .author{
 	color:#777777;
+}
+.book>img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
