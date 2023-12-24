@@ -1,19 +1,19 @@
 /*  your css code here. If applicable */
 .book-library{
 	background-color:#f8f8f8;
-}
-.book-library>h1{
 	text-align:center;
 }
-.book{
-	background-color:#ffffff;
+h2{
+	text-align:left;
 }
+
 .price{
 	color:white;
 	background-color:#2ecc71;
 	text-align:center;
 }
 .author{
+	text-align:left;
 	color:#777777;
 }
 .book-library>img{
